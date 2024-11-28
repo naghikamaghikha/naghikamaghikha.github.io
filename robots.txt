@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://naghikamaghikha.github.io/naghikamaghikha_github_io_zp530_1.txt
+Sitemap: https://naghikamaghikha.github.io/naghikamaghikha_github_io_zp530_14.txt
+Sitemap: https://naghikamaghikha.github.io/naghikamaghikha_github_io_zp530_19.txt
+Sitemap: https://naghikamaghikha.github.io/naghikamaghikha_github_io_zp530_23.txt
+Sitemap: https://naghikamaghikha.github.io/naghikamaghikha_github_io_zp530_5.txt
